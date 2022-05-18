@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to Bread's Bio
+
+![Among US](https://tenor.com/view/cat-cheerleaders-aarons-animals-kittens-gif-12261259)
 
 You can use the [editor on GitHub](https://github.com/BurntBread007/burntbread007.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +17,35 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+
+## **Coding**
+- 1 year Python intro class
+- 2 years AP CS; _1 year JS, 1 year Java_
+- Self-taught basic scripting in Unity _(C#)_
+### **Achievements**
+- FunkyXML
+- Java IM
+
+
+## **3D Modeling**
+- 1 year 3D 'animation'; _Premiere Pro + After Effects + little bit of Maya_
+- Self-taught Blender on-and-off since 2019
+### **Achievements**
+- Kobold in grass
+- Pixar Lamp
+- Candle
+- Kirby
+
+
+## **Gaming**
+- VR gamer since 2020; WMR 2020-2021, Rift CV1 2021-Present
+- Competitve Beat Saber July 2020-Present; Best Rank #2500, Top 1.00%
+- (quite amateur) Retro Game Collector; GameCube, OG XB/360, N64
+- (currently) Trying out SM64 mods using the decomp
+### **Achievements**
+- BSaber Videos
+- Screenshots of leaderboard
+
 
 1. Numbered
 2. List
