@@ -1,4 +1,4 @@
-![My Arcade room made in Blender](images/roomprogress_2.png)
+![My Arcade room made in Blender](images/roomprogress_2.jpg)
 # Welcome to Bread's Bio
 
 Me when I game
@@ -26,7 +26,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Pixar Lamp
 ![Among us](images/bread_orange.gif)
 - Arcade
-![Arcade Room](images/roomprogress_1.png)
+![Arcade Room](images/roomprogress_1.jpg)
 - Kirby
 ![Korby](/images/bread_spin.gif)
 
