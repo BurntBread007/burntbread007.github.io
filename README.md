@@ -6,16 +6,16 @@ I've dabbled in various tech fields; such wacky topics may include [coding](#cod
 
 ## **Coding**
 - 1 year **Python intro class**
-- 2 years **AP CS**; _1 year JS, 1 year Java_
+- 2 years **AP CS**; `1 year JS, 1 year Java`
 - Self-taught basic **scripting in Unity** _(C#)_
 
 ### **Creations..**
-- [FunkyXML](https://github.com/BurntBread007/Funkin-XML-Editor) on GitHub and [GameBanana](https://gamebanana.com/tools/7032)
-- [Java IM](https://github.com/BurntBread007/Java-IM) on GitHub (CURRENTLY WIP)
+- **[FunkyXML](https://github.com/BurntBread007/Funkin-XML-Editor)** on GitHub and [GameBanana](https://gamebanana.com/tools/7032)
+- **[Java IM](https://github.com/BurntBread007/Java-IM)** on GitHub _(CURRENTLY WIP)_
 
 ## **3D Modeling**
-- 1 year **3D 'animation'**; _Premiere Pro + After Effects + little bit of Maya_
-- **Self-taught Blender** on-and-off since 2019
+- 1 year **3D 'animation'**; `Premiere Pro + After Effects + little bit of Maya`
+- **Self-taught Blender**, on-and-off since 2019
 
 ### **Creations..**
 - **Kobold in grass**
@@ -25,12 +25,12 @@ I've dabbled in various tech fields; such wacky topics may include [coding](#cod
 - **Arcade**
 ![Arcade Room](/images/roomprogress_1.jpg)
 - **Kirby Amiibo with Pixar Lamp**
-![Kirby Amiibo Smash Figure + Pixar Lamp](/images/kirby_and_pixar.jpg.gif)
+![Kirby Amiibo Smash Figure + Pixar Lamp](/images/kirby_and_pixar.jpg)
 
 ## **Gaming**
-- **VR gamer** since 2020; WMR 2020-2021, _Rift CV1 2021-Present_
-- **Competitve Beat Saber** July 2020-Present; _**Best Rank #2500, Top 1.00%**_
-- (quite amateur) **Retro Game Collector**; _GameCube, OG XB/360, N64_
+- **VR gamer** since 2020; `WMR 2020-2021, Rift CV1 2021-Present`
+- **Competitve Beat Saber** July 2020-Present; `Best Rank #2500, Top 1.00%`
+- (quite amateur) **Retro Game Collector**; `GameCube, OG XB/360, N64`
 - (currently) Trying out **SM64 mods** using the decomp
 
 ### **Creations..**
@@ -44,14 +44,17 @@ I've dabbled in various tech fields; such wacky topics may include [coding](#cod
 ![ScoreSaber leaderboard - #2509](/images/leaderboard2.jpg)
 
 
+Thanks for checking out my stuff! If you are interested to keep up-to-date with my shenanigans, I have listed my social links below, so check em out!
+
 ## CONTACT INFO
 ![amogoose](/images/bread_orange.gif)
-**Discord** _TBD_
 
-**[YouTube](https://www.youtube.com/channel/UCv-LEwn6Jtl1_agLO2t9CYg)** _Burnt Bread, Br3D_
+1. **Discord** _TBD_
 
-**[Instagram](https://www.instagram.com/breads.blender/)** _@breads.blender_
+2. **[YouTube:](https://www.youtube.com/channel/UCv-LEwn6Jtl1_agLO2t9CYg)** _Burnt Bread, Br3D_
 
-**[GitHub](https://github.com/burntbread007)** _BurntBread007_
+3. **[Instagram:](https://www.instagram.com/breads.blender/)** _@breads.blender_
 
-**[**Steam](https://steamcommunity.com/id/burntbread007/)** _BurntBread007_
+4. **[GitHub:](https://github.com/burntbread007)** _BurntBread007_
+
+5. **[Steam:](https://steamcommunity.com/id/burntbread007/)** _BurntBread007_
