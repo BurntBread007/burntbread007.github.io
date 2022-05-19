@@ -10,6 +10,7 @@ I've dabbled in various tech fields; such wacky topics may include [coding](#cod
 - Self-taught basic **scripting in Unity** _(C#)_
 
 ### **Creations..**
+
 - **[FunkyXML](https://github.com/BurntBread007/Funkin-XML-Editor)** on GitHub and [GameBanana](https://gamebanana.com/tools/7032)
 - **[Java IM](https://github.com/BurntBread007/Java-IM)** on GitHub _(CURRENTLY WIP)_
 
@@ -18,12 +19,13 @@ I've dabbled in various tech fields; such wacky topics may include [coding](#cod
 - **Self-taught Blender**, on-and-off since 2019
 
 ### **Creations..**
+
 - **Kobold in grass**
 ![Kobold sitting on grassy hill](/assets/images/burntbread_kobold_lowres.gif)
 - **Pixar Lamp**
 ![Recreation of Pixar intro](/assets/images/burntbread_pixar.gif)
 - **Arcade**
-![Arcade Room](/assets/images/burntbread_arcade2.jpg)
+![Arcade Room](/assets/images/burntbread_arcade3.jpg)
 - **Kirby Amiibo with Pixar Lamp**
 ![Kirby Amiibo Smash Figure + Pixar Lamp](/assets/images/burntbread_pixar_kirby.jpg)
 
@@ -34,6 +36,7 @@ I've dabbled in various tech fields; such wacky topics may include [coding](#cod
 - (currently) Trying out **SM64 mods** using the decomp
 
 ### **Creations..**
+
 - **BSaber Videos**
 <p>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LkDhjqpIS3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
