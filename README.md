@@ -38,7 +38,7 @@ Example screenshot of a group chat within Java-IM (v0.1.6):
 - 2 years **3D "Animation"**; `Premiere Pro + After Effects + little bit of Maya`, 2021-Present (2nd year is in progress)
 - **Self-guided Blender**, 2019-Present (on and off)
 
-### **3D Creations**
+## **Modeled Creations**
 - **[Kobold Sittin in Da Grass](https://youtu.be/-WzmQDnodvs)** (click name for better viewing)
 ![Kobold Sittin in Da Grass](/assets/images/burntbread_kobold_lowres.gif)
 
@@ -60,7 +60,7 @@ Example screenshot of a group chat within Java-IM (v0.1.6):
 - I have also delved into the world of **soldering** and **console modding** to modify this Xbox 360! I re-soldered its fans to a 12V rail for more power, which helps prevent overheating/RROD, and I plan to continue more QoL mods to make this sleek and more usable. But most obviously, I hydro-dipped for extra swag.
 
 
-### **Beat Saber Videos/Ranking**
+## **Beat Saber Videos/Ranking**
 - Created in 2018, Beat Saber is a rhythm game developed for Virtual Reality. Each of your controllers wield a saber, each with a different color. As music plays, blocks float into view with predetermined arrows and timing on them, requiring the player to swing each saber into every block of its corresponding color, arrow direction, and specific time. In practice, this creates a competitive game that can ask for speedy and exerting physical work, **requiring skills such as: quick reflexes, arm/wrist flexibility, and cardio and arm endurance, and many more skills.**
 
 - Here is an example of a moderately difficult level during my competitive reign. The view you see is that of the headset I wear, and each saber accurately represents the swings of each of my arms. At intense speeds such as this, I have maintained burns of up to **~12 kcal/min**.
